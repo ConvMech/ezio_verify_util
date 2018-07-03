@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f3492f2-a0f4-4a9e-a8a9-17477a5cae85" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/zulu_markups/cv/utils/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zulu_markups/cv/utils/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zulu_markups/cv/utils/cmake-build-debug/test/CMakeFiles/test_poser_v3_json.dir/test_poser_v3_json.cc.o" beforeDir="false" afterPath="$PROJECT_DIR$/zulu_markups/cv/utils/cmake-build-debug/test/CMakeFiles/test_poser_v3_json.dir/test_poser_v3_json.cc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zulu_markups/cv/utils/cmake-build-debug/test/test_poser_v3_json" beforeDir="false" afterPath="$PROJECT_DIR$/zulu_markups/cv/utils/cmake-build-debug/test/test_poser_v3_json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zulu_markups/cv/utils/test/.ipynb_checkpoints/roofseg-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/zulu_markups/cv/utils/test/.ipynb_checkpoints/roofseg-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zulu_markups/cv/utils/test/roofseg.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/zulu_markups/cv/utils/test/roofseg.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zulu_markups/cv/utils/test/test_poser_v3_json.cc" beforeDir="false" afterPath="$PROJECT_DIR$/zulu_markups/cv/utils/test/test_poser_v3_json.cc" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/zulu_markups" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="52" />
+    <option name="y" value="23" />
+    <option name="width" value="1388" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ezioverify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ezioverify" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ezioverify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ezioverify" type="462c0819:PsiDirectoryNode" />
+              <item name="zulu_markups" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ezioverify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ezioverify" type="462c0819:PsiDirectoryNode" />
+              <item name="zulu_markups" type="462c0819:PsiDirectoryNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ezioverify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ezioverify" type="462c0819:PsiDirectoryNode" />
+              <item name="zulu_markups" type="462c0819:PsiDirectoryNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ezioverify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ezioverify" type="462c0819:PsiDirectoryNode" />
+              <item name="zulu_markups" type="462c0819:PsiDirectoryNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f3492f2-a0f4-4a9e-a8a9-17477a5cae85" name="Default" comment="" />
+      <created>1530395627815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530395627815</updated>
+      <workItem from="1530395629521" duration="51000" />
+      <workItem from="1530549118012" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="52" y="23" width="1388" height="877" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945135" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
