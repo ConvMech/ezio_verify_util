@@ -4,16 +4,19 @@
 # run a single test
 
 #ORDER=723998
-ORDER=764591
-
-/Users/tommy/workspace/ezioverify/zulu_markups/cv/utils/cmake-build-debug/test/test_poser_v3_json --image_dir /Users/tommy/workspace/data/failed/order_$ORDER/ --input_folder /Users/tommy/workspace/data/failed/order_$ORDER/ --order_no $ORDER --debug true --output_dir /Users/tommy/workspace/data/psout/
-
+#ORDER=779045
+#DIR=/Users/tommy/workspace/data/failed/
+#/Users/tommy/workspace/ezioverify/zulu_markups/cv/utils/cmake-build-debug/test/test_poser_v3_json --image_dir "$DIR"order_$ORDER/ --input_folder "$DIR"order_$ORDER/ --order_no $ORDER --debug true --output_dir /Users/tommy/workspace/data/psout/
 
 # run a lot of orders
 
-:'
-for d in /Users/tommy/workspace/data/failed/*; do
+#:'
+
+DIR=/Users/tommy/workspace/data/failed/
+
+for d in $DIR*; do
   ORDER=0
+
   if [ -d "$d" ]; then
     #echo "$d"/;
     IFS='_' read -ra ADDR <<< "$d"
@@ -24,7 +27,8 @@ for d in /Users/tommy/workspace/data/failed/*; do
         esac
     done
     echo "$ORDER"
-    /Users/tommy/workspace/ezioverify/zulu_markups/cv/utils/cmake-build-debug/test/test_poser_v3_json --image_dir /Users/tommy/workspace/data/failed/order_$ORDER/ --input_folder /Users/tommy/workspace/data/failed/order_$ORDER/ --order_no $ORDER --debug true --output_dir /Users/tommy/workspace/data/psout/
+    /Users/tommy/workspace/ezioverify/zulu_markups/cv/utils/cmake-build-debug/test/test_poser_v3_json --image_dir "$DIR"order_$ORDER/ --input_folder "$DIR"order_$ORDER/ --order_no $ORDER --debug true --output_dir /Users/tommy/workspace/data/psout/
   fi
 done
-'
+
+#'
