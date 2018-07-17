@@ -4,15 +4,15 @@
 # run a single test
 
 #ORDER=723998
-ORDER=762333
-DIR=/Users/tommy/workspace/data/failed/
-/Users/tommy/workspace/ezioverify/zulu_markups/cv/utils/cmake-build-debug/test/test_poser_v3_json --image_dir "$DIR"order_$ORDER/ --input_folder "$DIR"order_$ORDER/ --order_no $ORDER --debug true --output_dir /Users/tommy/workspace/data/psout/
+#ORDER=777597
+#DIR=/Users/tommy/workspace/data/failed/
+#/Users/tommy/workspace/ezioverify/zulu_markups/cv/utils/cmake-build-debug/test/test_poser_v3_json --image_dir "$DIR"order_$ORDER/ --input_folder "$DIR"order_$ORDER/ --order_no $ORDER --debug true --output_dir /Users/tommy/workspace/data/psout/
 
 # run a lot of orders
 
-:'
+#:'
 
-DIR=/Users/tommy/workspace/data/perfect/
+DIR=/Users/tommy/workspace/data/failed/
 
 for d in $DIR*; do
   ORDER=0
@@ -31,4 +31,4 @@ for d in $DIR*; do
   fi
 done
 
-'
+#'
